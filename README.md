@@ -5,7 +5,7 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
 
 ---
 
-### 🚀 Skills
+### Skills
  
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,mongodb,firebase,tailwind,nodejs,express" />
@@ -16,7 +16,7 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
 - 🌱 I’m currently exploring Next.js  
 - 🤝 I’m looking to collaborate on GitHub  
 - 💬 Ask me about Web Development  
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: mst.rukshanaafrin@gmail.com 
 
 ---
 
@@ -25,7 +25,7 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
   <a href="https://github.com/Rukshanaafrin">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/rukshana-afrin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
