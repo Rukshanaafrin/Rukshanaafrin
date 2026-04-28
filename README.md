@@ -1,20 +1,9 @@
 # Hi there 👋, my name is Mst. Rukshana Afrin
 
-I am a Frontend Web devloper
+### I am a Frontend Web devloper
+I am a frontend web developer with a degree in Computer Science and Engineering from University Of South Asia. I specialize in building responsive and interactive web applications using React, JavaScript, HTML, Tailwind CSS (including DaisyUI), MongoDB, and Firebase. I focus on creating user-friendly interfaces and delivering efficient, high-quality code. For any inquiries, you can contact me at mst.rukshanaafrin@gmail.com
 
-<h1 align="center">Hi 👋, I'm Rukshana Afrin</h1>
-<h3 align="center">MERN Stack Developer (Learner) from Bangladesh 🇧🇩</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-### 🌱 About Me
-- 🌱 I’m currently learning **React, Node.js, MongoDB**
-- 💻 I love building modern web applications  
-- 🎯 Goal: Become a Professional Full Stack Developer  
-
----
 
 ### 🚀 Skills
 <p align="left"> 
