@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Mst. Rukshana Afrin
 
 ### I am a Frontend Web devloper
-<img src="https://github.com/YOUR_Rukshanaafrin/Rukshanaafrin/blob/main/banner.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/Rukshanaafrin/Rukshanaafrin/main/banner.jpeg" width="100%" />
 I am a frontend web developer with a degree in Computer Science and Engineering from University Of South Asia. I specialize in building responsive and interactive web applications using React, JavaScript, HTML, Tailwind CSS (including DaisyUI), MongoDB, and Firebase. I focus on creating user-friendly interfaces and delivering efficient, high-quality code. For any inquiries, you can contact me at mst.rukshanaafrin@gmail.com
 
 ---
