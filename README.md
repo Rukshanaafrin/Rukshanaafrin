@@ -33,16 +33,30 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
 ---
 
 ## 📊 GitHub Stats  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=default" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=default" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Rukshanaafrin&theme=default" />
+
+</div>
 
 ---
 
-✨ Thanks for visiting my profile 💖
 
