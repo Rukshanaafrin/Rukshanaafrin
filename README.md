@@ -2,7 +2,12 @@
 
 ### I am a Frontend Developer | MERN Stack Developer
 <img src="https://raw.githubusercontent.com/Rukshanaafrin/Rukshanaafrin/main/banner.jpeg" width="100%" />
-I am a Frontend Developer passionate about building responsive and user-friendly web applications. I have completed a comprehensive Web Development course from Programming Hero and have hands-on experience with HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, and MongoDB. I enjoy learning new technologies and building real-world projects. I focus on creating user-friendly interfaces and delivering efficient, high-quality code. For any inquiries, you can contact me at mst.rukshanaafrin@gmail.com. I am currently looking for opportunities as a Frontend or MERN Stack Developer.
+I am a Frontend Developer passionate about building responsive and user-friendly web applications. I have completed a comprehensive Web Development course from Programming Hero and have hands-on experience with HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, and MongoDB. I enjoy learning new technologies and building real-world projects. I focus on creating user-friendly interfaces and delivering efficient, high-quality code.
+
+📧 Email: mst.rukshanaafrin@gmail.com  
+📱 Phone: 01773072299
+
+I am currently looking for opportunities as a Frontend or MERN Stack Developer.
 
 ---
 
