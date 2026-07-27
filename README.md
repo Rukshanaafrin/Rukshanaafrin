@@ -1,23 +1,23 @@
 # Hi there 👋, my name is Mst. Rukshana Afrin
 
-### I am a Frontend Web devloper
+### I am a Frontend Developer | MERN Stack Developer
 <img src="https://raw.githubusercontent.com/Rukshanaafrin/Rukshanaafrin/main/banner.jpeg" width="100%" />
-I am a frontend web developer with a degree in Computer Science and Engineering from University Of South Asia. I specialize in building responsive and interactive web applications using React, JavaScript, HTML, Tailwind CSS (including DaisyUI), MongoDB, and Firebase. I focus on creating user-friendly interfaces and delivering efficient, high-quality code. For any inquiries, you can contact me at mst.rukshanaafrin@gmail.com
+I am a Frontend Developer passionate about building responsive and user-friendly web applications. I have completed a comprehensive Web Development course from Programming Hero and have hands-on experience with HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, and MongoDB. I enjoy learning new technologies and building real-world projects. I focus on creating user-friendly interfaces and delivering efficient, high-quality code. For any inquiries, you can contact me at mst.rukshanaafrin@gmail.com. I am currently looking for opportunities as a Frontend or MERN Stack Developer.
 
 ---
 
 ### Skills
  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,mongodb,firebase,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,next,express,mongodb,firebase" />
 </p>
 
 ---
 
-- 🌱 I’m currently exploring Next.js  
-- 🤝 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Web Development  
-- 📫 How to reach me: mst.rukshanaafrin@gmail.com 
+- 🌱 I'm currently exploring Next.js
+- 💼 I'm currently building MERN Stack projects
+- 💬 Ask me about React, Next.js and JavaScript
+- 📫 How to reach me: mst.rukshanaafrin@gmail.com
 
 ---
 
@@ -26,7 +26,7 @@ I am a frontend web developer with a degree in Computer Science and Engineering 
   <a href="https://github.com/Rukshanaafrin">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/rukshana-afrin">
+  <a href="https://www.linkedin.com/in/rukshana-afrin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
