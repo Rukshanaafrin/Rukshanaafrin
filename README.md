@@ -30,57 +30,56 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="33%">
       <a href="https://foodiego-mu.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://foodiego-mu.vercel.app/" alt="Foodiego Project Preview" width="100%" />
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ffoodiego-mu.vercel.app/?w=600" alt="Foodiego" width="100%">
       </a>
-      <h3>🍽️ Foodiego — AI-Powered Food Delivery & Logistics Platform</h3>
+      <br><br>
+      <h3>🍽️ Foodiego</h3>
+      <p><b>AI-Powered Food Delivery & Logistics Platform</b></p>
       <p>
-        A full-stack food delivery and logistics platform with real-time order tracking,
-        rider management, and AI-powered features.
+        Full-stack food delivery platform with real-time order tracking,
+        rider management and AI-powered features.
       </p>
       <p><b>Tech:</b> Next.js · TypeScript · Node.js · MongoDB · Socket.IO</p>
-      <p>
-        🔗 <a href="https://foodiego-mu.vercel.app/" target="_blank">Live Demo</a>
-      </p>
+      <a href="https://foodiego-mu.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
 
-    <td width="50%">
+    <td align="center" width="33%">
       <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://resell-hub-client-blond.vercel.app/" alt="ReSell Hub Project Preview" width="100%" />
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fresell-hub-client-blond.vercel.app/?w=600" alt="ReSell Hub" width="100%">
       </a>
-      <h3>🛒 ReSell Hub — Second-Hand Marketplace Platform</h3>
+      <br><br>
+      <h3>🛒 ReSell Hub</h3>
+      <p><b>Second-Hand Marketplace Platform</b></p>
       <p>
-        A modern marketplace platform where users can buy and sell second-hand
-        products with authentication, product management, and payment integration.
+        A modern marketplace for buying and selling second-hand
+        products with authentication and payment integration.
       </p>
       <p><b>Tech:</b> Next.js · MongoDB · Firebase · Stripe · Tailwind CSS</p>
-      <p>
-        🔗 <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">Live Demo</a>
-      </p>
+      <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
-  </tr>
 
-  <tr>
-    <td width="50%">
+    <td align="center" width="33%">
       <a href="https://pawpal-client.vercel.app/" target="_blank">
-        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://pawpal-client.vercel.app/" alt="PawPal Project Preview" width="100%" />
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpawpal-client.vercel.app/?w=600" alt="PawPal" width="100%">
       </a>
-      <h3>🐾 PawPal — Pet Adoption Platform</h3>
+      <br><br>
+      <h3>🐾 PawPal</h3>
+      <p><b>Pet Adoption Platform</b></p>
       <p>
-        A user-friendly pet adoption platform that helps users discover and
-        adopt pets through an organized and responsive interface.
+        A user-friendly pet adoption platform that helps users
+        discover and adopt pets through a responsive interface.
       </p>
       <p><b>Tech:</b> Next.js · Tailwind CSS · Firebase</p>
-      <p>
-        🔗 <a href="https://pawpal-client.vercel.app/" target="_blank">Live Demo</a>
-      </p>
-    </td>
-
-    <td width="50%">
+      <a href="https://pawpal-client.vercel.app/" target="_blank">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
+
+---
+
+## 🔗 Connect With Me
 
 ---
 
