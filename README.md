@@ -36,7 +36,7 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 <a href="https://foodiego-mu.vercel.app/" target="_blank">
 <img src="./foodiego.png" width="100%" height="120" alt="Foodiego"/>
 </a>
-
+<h2>Team Project<h2/>
 <h3>🍽️ Foodiego</h3>
 
 <p><b>AI-Powered Food Delivery Platform</b></p>
