@@ -26,56 +26,7 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://foodiego-mu.vercel.app/" target="_blank">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Ffoodiego-mu.vercel.app/?w=600" alt="Foodiego" width="100%">
-      </a>
-      <br><br>
-      <h3>🍽️ Foodiego</h3>
-      <p><b>AI-Powered Food Delivery & Logistics Platform</b></p>
-      <p>
-        Full-stack food delivery platform with real-time order tracking,
-        rider management and AI-powered features.
-      </p>
-      <p><b>Tech:</b> Next.js · TypeScript · Node.js · MongoDB · Socket.IO</p>
-      <a href="https://foodiego-mu.vercel.app/" target="_blank">🔗 Live Demo</a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fresell-hub-client-blond.vercel.app/?w=600" alt="ReSell Hub" width="100%">
-      </a>
-      <br><br>
-      <h3>🛒 ReSell Hub</h3>
-      <p><b>Second-Hand Marketplace Platform</b></p>
-      <p>
-        A modern marketplace for buying and selling second-hand
-        products with authentication and payment integration.
-      </p>
-      <p><b>Tech:</b> Next.js · MongoDB · Firebase · Stripe · Tailwind CSS</p>
-      <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">🔗 Live Demo</a>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://pawpal-client.vercel.app/" target="_blank">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpawpal-client.vercel.app/?w=600" alt="PawPal" width="100%">
-      </a>
-      <br><br>
-      <h3>🐾 PawPal</h3>
-      <p><b>Pet Adoption Platform</b></p>
-      <p>
-        A user-friendly pet adoption platform that helps users
-        discover and adopt pets through a responsive interface.
-      </p>
-      <p><b>Tech:</b> Next.js · Tailwind CSS · Firebase</p>
-      <a href="https://pawpal-client.vercel.app/" target="_blank">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
