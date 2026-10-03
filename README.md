@@ -28,27 +28,59 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 ## 🚀 Featured Projects
 
-### 🍽️ Foodiego — AI-Powered Food Delivery & Logistics Platform
-Team Project
-A full-stack food delivery and logistics platform with real-time order tracking, rider management, and AI-powered features.
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://foodiego-mu.vercel.app/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://foodiego-mu.vercel.app/" alt="Foodiego Project Preview" width="100%" />
+      </a>
+      <h3>🍽️ Foodiego — AI-Powered Food Delivery & Logistics Platform</h3>
+      <p>
+        A full-stack food delivery and logistics platform with real-time order tracking,
+        rider management, and AI-powered features.
+      </p>
+      <p><b>Tech:</b> Next.js · TypeScript · Node.js · MongoDB · Socket.IO</p>
+      <p>
+        🔗 <a href="https://foodiego-mu.vercel.app/" target="_blank">Live Demo</a>
+      </p>
+    </td>
 
-**Tech:** Next.js · TypeScript · Node.js · MongoDB · Socket.IO
+    <td width="50%">
+      <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://resell-hub-client-blond.vercel.app/" alt="ReSell Hub Project Preview" width="100%" />
+      </a>
+      <h3>🛒 ReSell Hub — Second-Hand Marketplace Platform</h3>
+      <p>
+        A modern marketplace platform where users can buy and sell second-hand
+        products with authentication, product management, and payment integration.
+      </p>
+      <p><b>Tech:</b> Next.js · MongoDB · Firebase · Stripe · Tailwind CSS</p>
+      <p>
+        🔗 <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">Live Demo</a>
+      </p>
+    </td>
+  </tr>
 
-🔗 [Live Demo](https://foodiego-mu.vercel.app/)
+  <tr>
+    <td width="50%">
+      <a href="https://pawpal-client.vercel.app/" target="_blank">
+        <img src="https://image.thum.io/get/width/800/crop/500/noanimate/https://pawpal-client.vercel.app/" alt="PawPal Project Preview" width="100%" />
+      </a>
+      <h3>🐾 PawPal — Pet Adoption Platform</h3>
+      <p>
+        A user-friendly pet adoption platform that helps users discover and
+        adopt pets through an organized and responsive interface.
+      </p>
+      <p><b>Tech:</b> Next.js · Tailwind CSS · Firebase</p>
+      <p>
+        🔗 <a href="https://pawpal-client.vercel.app/" target="_blank">Live Demo</a>
+      </p>
+    </td>
 
-### 🛒 ReSell Hub — Second-Hand Marketplace Platform
-A modern marketplace platform where users can buy and sell second-hand products with authentication, product management, and payment integration.
-
-**Tech:** Next.js · MongoDB · Firebase · Stripe · Tailwind CSS
-
-🔗 [Live Demo](https://resell-hub-client-blond.vercel.app/)
-
-### 🐾 PawPal — Pet Adoption Platform
-A user-friendly pet adoption platform that helps users discover and adopt pets through an organized and responsive interface.
-
-**Tech:** Next.js · Tailwind CSS · Firebase
-
-🔗 [Live Demo](https://pawpal-client.vercel.app/)
+    <td width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
