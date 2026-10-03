@@ -14,7 +14,7 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 ### Skills
  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,next,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=html5,css3,tailwind,js,react,nodejs,next,express,mongodb,firebase" />
 </p>
 
 ---
