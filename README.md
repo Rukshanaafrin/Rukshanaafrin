@@ -105,8 +105,24 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="Rukshana Afrin's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rukshanaafrin&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
