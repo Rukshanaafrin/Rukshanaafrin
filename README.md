@@ -34,16 +34,16 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 <td width="33%" align="center">
 
 <a href="https://foodiego-mu.vercel.app/" target="_blank">
-<img src="./foodiego.png" width="100%" alt="Foodiego"/>
+<img src="./foodiego.png" width="100%" height="120" alt="Foodiego"/>
 </a>
 
-<h3>🍽️ Foodeigo</h3>
+<h3>🍽️ Foodiego</h3>
 
-<p><b>AI-Powered Food Delivery & Logistics Platform</b></p>
+<p><b>AI-Powered Food Delivery Platform</b></p>
 
-<p>Full-stack food delivery platform with real-time order tracking, rider management, and AI-powered features.</p>
+<p>Real-time food delivery with rider management and AI-powered features.</p>
 
-<p><b>Tech:</b> Next.js · TypeScript · Node.js · MongoDB · Socket.IO</p>
+<p><b>Tech:</b> Next.js · TypeScript · Node.js · MongoDB</p>
 
 <a href="https://foodiego-mu.vercel.app/" target="_blank">🔗 Live Demo</a>
 
@@ -52,16 +52,16 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 <td width="33%" align="center">
 
 <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">
-<img src="./resellhub.png" width="100%" alt="ReSell Hub"/>
+<img src="./resellhub.png" width="100%" height="120" alt="ReSell Hub"/>
 </a>
 
 <h3>🛒 ReSell Hub</h3>
 
-<p><b>Second-Hand Marketplace Platform</b></p>
+<p><b>Second-Hand Marketplace</b></p>
 
-<p>Modern marketplace platform for buying and selling second-hand products with authentication and payment integration.</p>
+<p>Buy and sell second-hand products with authentication and payments.</p>
 
-<p><b>Tech:</b> Next.js · MongoDB · Firebase · Stripe · Tailwind CSS</p>
+<p><b>Tech:</b> Next.js · MongoDB · Firebase · Stripe</p>
 
 <a href="https://resell-hub-client-blond.vercel.app/" target="_blank">🔗 Live Demo</a>
 
@@ -70,14 +70,14 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 <td width="33%" align="center">
 
 <a href="https://pawpal-client.vercel.app/" target="_blank">
-<img src="./pawpal.png" width="100%" alt="PawPal"/>
+<img src="./pawpal.png" width="100%" height="120" alt="PawPal"/>
 </a>
 
 <h3>🐾 PawPal</h3>
 
 <p><b>Pet Adoption Platform</b></p>
 
-<p>User-friendly pet adoption platform that helps users discover and adopt pets through a responsive interface.</p>
+<p>Discover and adopt pets through a simple and responsive platform.</p>
 
 <p><b>Tech:</b> Next.js · Tailwind CSS · Firebase</p>
 
