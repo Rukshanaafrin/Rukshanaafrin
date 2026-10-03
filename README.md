@@ -37,7 +37,7 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 <img src="./foodiego.png" width="100%" alt="Foodiego"/>
 </a>
 
-<h3>🍽️ Foodiego</h3>
+<h3>🍽️ Foodeigo</h3>
 
 <p><b>AI-Powered Food Delivery & Logistics Platform</b></p>
 
