@@ -28,20 +28,27 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 ## 🚀 Featured Projects
 
-### 🍽️ Foodiego — AI-Powered Food Delivery Platform
+### 🍽️ Foodiego — AI-Powered Food Delivery & Logistics Platform
+Team Project
 A full-stack food delivery and logistics platform with real-time order tracking, rider management, and AI-powered features.
 
 **Tech:** Next.js · TypeScript · Node.js · MongoDB · Socket.IO
 
-### 🛒 ReSell Hub — Second-Hand Marketplace
+🔗 [Live Demo](https://foodiego-mu.vercel.app/)
+
+### 🛒 ReSell Hub — Second-Hand Marketplace Platform
 A modern marketplace platform where users can buy and sell second-hand products with authentication, product management, and payment integration.
 
 **Tech:** Next.js · MongoDB · Firebase · Stripe · Tailwind CSS
+
+🔗 [Live Demo](https://resell-hub-client-blond.vercel.app/)
 
 ### 🐾 PawPal — Pet Adoption Platform
 A user-friendly pet adoption platform that helps users discover and adopt pets through an organized and responsive interface.
 
 **Tech:** Next.js · Tailwind CSS · Firebase
+
+🔗 [Live Demo](https://pawpal-client.vercel.app/)
 
 ---
 
