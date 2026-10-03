@@ -19,9 +19,10 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 ---
 
-- 🌱 I'm currently exploring Next.js
-- 💼 I'm currently building MERN Stack projects
-- 💬 Ask me about React, Next.js and JavaScript
+- 🌱 I'm currently exploring TypeScript and Next.js
+- 💼 I'm currently building full-stack web applications
+- 💬 Ask me about React, Next.js, JavaScript and TypeScript
+- 📚 Always learning new technologies and improving my development skills
 - 📫 How to reach me: mst.rukshanaafrin@gmail.com
 
 ---
