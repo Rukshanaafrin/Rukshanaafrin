@@ -102,31 +102,25 @@ I am currently seeking opportunities as a Full-Stack Developer where I can contr
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 📊 GitHub Statistics
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=default" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=default" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Rukshanaafrin&theme=default" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukshanaafrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukshanaafrin&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
 ---
+
+<p align="center">
+  <b>Thank you for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Always learning • Always building • Always improving</i>
+</p>
+
+---
+
+
 
 
